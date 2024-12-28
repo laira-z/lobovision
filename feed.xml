@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Meu Canal de Vídeos</title>
+    <link>https://visionlobo.com</link>
+    <description>Feed de vídeos em MP4</description>
+    <language>pt-br</language>
+    
+    <item>
+      <title>Meu Primeiro Vídeo</title>
+      <link>https://drive.google.com/uc?export=download&id=1d5lvlgODIpBjKPjHGX8asC6p1AwVfg_M</link>
+      <description>Descrição do vídeo aqui.</description>
+      <pubDate>Sat, 21 Dec 2024 10:00:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1d5lvlgODIpBjKPjHGX8asC6p1AwVfg_M" length="12345678" type="video/mp4" />
+    </item>
+  </channel>
+</rss>
